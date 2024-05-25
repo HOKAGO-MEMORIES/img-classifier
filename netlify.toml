@@ -1,5 +1,5 @@
 [build.environment]
-  NODE_VERSION = "20.13.1"
+  NODE_VERSION = "16.20.2"
 [build]
   base = "/"
   publish = "public/"
