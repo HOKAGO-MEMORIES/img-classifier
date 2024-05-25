@@ -1,6 +1,5 @@
 [build.environment]
-  NODE_VERSION = "16.x"
-  NODE_OPTIONS = "--openssl-legacy-provider"
+  NODE_VERSION = "20.13.1"
 [build]
   base = "/"
   publish = "public/"
